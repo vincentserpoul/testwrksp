@@ -1,5 +1,10 @@
 package b
 
+import (
+	"github.com/vincentserpoul/testwrksp/a"
+)
+
 func Version() string {
-	return "b.v1"
+	return a.Version() + "b.v4"
+
 }
