@@ -1,7 +1,7 @@
 package z
 
 import (
-	"github.com/vincentserpoul/testwrksp/a/v4"
+	"github.com/vincentserpoul/testwrksp/a/v5"
 )
 
 func Version() string {
