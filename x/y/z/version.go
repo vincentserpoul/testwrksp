@@ -5,6 +5,6 @@ import (
 )
 
 func Version() string {
-	return a.Version() + "z.v1"
+	return a.Version() + "z.v1.2"
 
 }
